@@ -58,9 +58,8 @@ export default function App() {
               margin: "10px",
               cursor: "pointer",
               fontSize: "25px",
-              width: "150px",
-              height: "50px",
-              marginTop: "5px"
+              marginTop: "5px",
+              width: "120px"
             }}
           >
             {eachItem}
