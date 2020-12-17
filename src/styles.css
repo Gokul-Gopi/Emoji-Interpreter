@@ -1,10 +1,12 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  max-width: 700px;
+  margin: auto;
 }
 
-body{
-  background-image: linear-gradient(90deg,#d53369,#cbad6d);
+body {
+  background-image: linear-gradient(90deg, #d53369, #cbad6d);
 }
 
 input {
